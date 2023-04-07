@@ -1,8 +1,3 @@
-- 🔭 ... currently working on my awesome portfolio-website and some ideas
-- 🌱 --- currently learning pyqt, react, algorythms
-- 👯 /// looking to collaborate on literature research by computer
-- 🤔 *** looking for help with good it specialist and person
-- 💬 Ask me about 
 - 📫 How to reach me: @jenia0jenia (Евгений 😄 Pronouns: jɪˈvɡʲenʲɪj  )
 
 
